@@ -14,4 +14,3 @@ scikit-learn
 pickle-mixin
 matplotlib
 Flask-Caching
-redis flask-caching
