@@ -803,7 +803,7 @@ textarea.w-select {
   border-radius: 3px;
 }
 .w-widget-twitter-count-shim * {
-  pointer-events: auto;
+ 
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -845,7 +845,7 @@ textarea.w-select {
   height: 0;
   width: 0;
   position: absolute;
-  pointer-events: auto;
+  
 }
 .w-widget-twitter-count-shim:not(.w--vertical):before {
   border-color: rgba(117, 134, 150, 0);
@@ -885,7 +885,7 @@ textarea.w-select {
   height: 0;
   width: 0;
   position: absolute;
-  pointer-events: auto;
+  
 }
 .w-widget-twitter-count-shim.w--vertical:before {
   border-color: rgba(117, 134, 150, 0);
